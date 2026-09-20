@@ -1,9 +1,9 @@
 ## Hey👋, I'm Fareeha ✦ 
 
-🎓 Data Science student
-🤖 Exploring AI/ML & data
-💻 Currently learning Python, SQL & building projects
-🌱 Slowly turning curiosity into code
+🎓 Data Science student <br>
+🤖 Exploring AI/ML & data <br>
+💻 Currently learning Python, SQL & building projects <br>
+🌱 Slowly turning curiosity into code <br>
 
 ### currently learning
 
